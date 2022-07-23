@@ -1,7 +1,7 @@
 # Data-Structures-And-Algorithms-in-Python by codebasics
 
 1. What is a Data Structure?
-2. Big O
+2. Big O - https://www.bigocheatsheet.com/
 3. Arrays
 4. Linked List
 5. Hash Table 1
