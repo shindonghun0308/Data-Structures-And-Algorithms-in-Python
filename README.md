@@ -4,8 +4,8 @@
 2. Big O
 3. Arrays
 4. Linked List
-5. Hash Table
-6. Collision Handling In Hash Table
+5. Hash Table 1
+6. Hash Table 2
 7. Stack
 8. Queue
 9. Tree (General Tree)
